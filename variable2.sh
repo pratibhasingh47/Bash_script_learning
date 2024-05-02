@@ -1,4 +1,5 @@
 #!/bin/bash
+
 word="awesome"
 echo "Linux is $word"
 echo "Kali-Linux is $word"
