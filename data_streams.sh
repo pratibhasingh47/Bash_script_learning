@@ -10,3 +10,8 @@ find /etc -type f &> file.txt
 
 
 find /etc -type f 1>find_result.txt 2>find_errors.txt
+
+
+echo "Enter your name"
+read myname
+echo "$myname"
