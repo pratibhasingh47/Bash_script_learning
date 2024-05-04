@@ -5,6 +5,7 @@ then echo "The file exists"
 else echo "The file does not exist"
 fi
 
+
 command=/usr/bin/htop
 if [ -f $command ]
 then echo "$command is available, let's run it......"
