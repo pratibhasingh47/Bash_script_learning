@@ -1,4 +1,6 @@
 #!/bin/bash
+
+
 ls
 echo $? #Command was successfull
 
