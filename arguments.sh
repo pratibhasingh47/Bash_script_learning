@@ -1,8 +1,8 @@
 #!/bin/bash
 
-# echo "You entered arguments : $1,$2,$3 and $4"
+echo "You entered arguments : $1,$2,$3 and $4"
 
-# ls -lh $1
+ls -lh $1
 
 lines=$(ls -lh $1 | wc -l)
 if [ $# -ne 1 ]
