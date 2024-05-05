@@ -1,3 +1,3 @@
 logfile=job_results.log
 
-echo "The script run at $(date)" > $logfile
+/usr/bin/echo "The script run at $(/usr/bin/date)" > $logfile
