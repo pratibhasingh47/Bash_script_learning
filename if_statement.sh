@@ -3,6 +3,8 @@
 num=200
 num2=400
 
+expr $num + $num2 
+
 if [ $num -eq 400 ]
 	then
 		echo "The condition is true."
