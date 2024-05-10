@@ -1,4 +1,2 @@
-# Bash-Craft 🚀
-Bash Scripts Basics.
-
-This repository contains some scripts to automate some terminal commands.
+# Bash-Script / Shell-Script 🚀💻
+### This is my Bash Scripts Basics learning path. This repository contains some scripts to automate the terminal commands.
